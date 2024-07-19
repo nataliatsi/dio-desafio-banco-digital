@@ -6,7 +6,7 @@ Este projeto é um desafio de orientação a objetos proposto pela Digital Innov
 
 O desafio consiste em desenvolver um sistema bancário simples que permite a criação e gerenciamento de contas bancárias. As funcionalidades incluem a criação de contas, realização de depósitos, saques e transferências, além da visualização do saldo.
 
-## Pirncipais Funcionalidades
+## Principais Funcionalidades
 
 - **Criar Conta**: Permite criar uma nova conta poupança ou corrente.
 
